@@ -473,6 +473,8 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  align-items: baseline
+
 }
 
 .img-thumbnail {
