@@ -7196,6 +7196,7 @@ button.bg-dark:focus {
 /*  padding-top: 60px*/
   -ms-flex-direction: column !important;
   flex-direction: column !important;
+  vertical-align: middle
 }
 
 .flex-row-reverse {
