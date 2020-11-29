@@ -474,6 +474,10 @@ mark,
   max-width: 100%;
   height: auto;
   align-items: baseline
+/*
+  margin-top: 75%
+  margin-bottom: auto;
+*/
 
 }
 
@@ -7189,6 +7193,7 @@ button.bg-dark:focus {
 }
 
 .flex-column {
+/*  padding-top: 60px*/
   -ms-flex-direction: column !important;
   flex-direction: column !important;
 }
