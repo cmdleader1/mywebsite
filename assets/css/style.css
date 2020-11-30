@@ -1349,6 +1349,10 @@ section {
 
 .portfolio-details .portfolio-details-container {
   position: relative;
+/*
+  height: 300px;
+  width: auto
+*/
 }
 
 .portfolio-details .portfolio-details-carousel {

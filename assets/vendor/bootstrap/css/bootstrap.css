@@ -471,9 +471,10 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
-  height: auto;
-  align-items: baseline
+  max-width: auto;
+  height: 100%;
+  vertical-align: middle;
+/*  align-items: center*/
 /*
   margin-top: 75%
   margin-bottom: auto;
