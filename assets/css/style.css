@@ -329,7 +329,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   top: 0;
   width: 130%;
   height: 95%;
-  background: linear-gradient(to right, rgba(31, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/Allison's - Copy.jpg") center center no-repeat;
+/*  background: linear-gradient(to right, rgba(31, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/Allison's - Copy.jpg") center center no-repeat;*/
+  background: linear-gradient(to right, rgba(31, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/TopImage.JPG") center center no-repeat;
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
